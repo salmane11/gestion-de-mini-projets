@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    font-family:cursive;
+    font-size: 20px;
+    color:#44566c;
+    background-color:#e7e7e7;
+}
+input{
+    text-decoration:none;
+    border-radius: 15px;
+    color:seagreen;
+    padding: 10px 10px;
+}
+form{
+    background-color:#56b4b7;
+    border-radius:40px;
+    position: absolute;
+    top:20%;
+    left:550px;
+    right:550px;
+}
+footer{
+    position:fixed;
+    left:0;
+    bottom:0;
+    color:#44566c;
+    text-align: left;
+    font-size: 15px;
+}
+p{
+    text-align: justify;
+}
