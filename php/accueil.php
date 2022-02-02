@@ -64,7 +64,7 @@
                                     $etudiant=$row["totale"];
                                 }
                             }
-                            echo "<p class='gauche'>".$etudiant+$encadrant."</p>";
+                            echo "<p class='gauche'>".($etudiant+$encadrant)."</p>";
                         ?><br><br><br><br>
                         
                     </td>
